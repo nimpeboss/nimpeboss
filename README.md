@@ -14,7 +14,7 @@
 
 ---
 
-### About Me
+## About Me
 
 - Building **full-stack web & mobile apps** with React, Flutter, and Django
 - Exploring **AI/ML** with PyTorch and OpenCV
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimpe-dev&theme=tokyonight&hide_border=true" alt="nimpe-dev streak" />
