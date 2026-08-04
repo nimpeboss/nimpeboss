@@ -5,11 +5,11 @@
 <p align="center">
   <a href="https://rivan-azawi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/rivan-azawi-a4380b2aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/nimpeboss" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/nimpe-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimpeboss&label=Profile%20views&color=6C63FF&style=flat" alt="nimpeboss" />
+  <img src="https://komarev.com/ghpvc/?username=nimpe-dev&label=Profile%20views&color=6C63FF&style=flat" alt="nimpe-dev" />
 </p>
 
 ---
@@ -80,14 +80,14 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimpeboss&theme=tokyonight&hide_border=true" alt="nimpeboss streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimpe-dev&theme=tokyonight&hide_border=true" alt="nimpe-dev streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimpeboss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="nimpeboss stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimpeboss&layout=compact&theme=tokyonight&hide_border=true" alt="nimpeboss languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimpe-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="nimpe-dev stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimpe-dev&layout=compact&theme=tokyonight&hide_border=true" alt="nimpe-dev languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimpeboss&theme=tokyo-night&hide_border=true&area=true" alt="nimpeboss activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimpe-dev&theme=tokyo-night&hide_border=true&area=true" alt="nimpe-dev activity graph" />
 </p>
